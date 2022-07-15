@@ -439,6 +439,10 @@ body._touch .menu__link._active .menu__arrow {
 		margin-bottom: 20px;
 		font-size: 18px; /*Changed in the git*/
 	}
+	
+	.menu__link-linkarr>a{
+		font-size: 24px; /*Changed in the git*/
+	}
 
 	.menu__arrow {}
 
